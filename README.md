@@ -11,7 +11,7 @@ simple QR code to improve my skills in HTML and CSS
 
 ## Live Demo
 
-[Live Demo Link](https://hanningtonem.github.io/preview-card/)
+[Live Demo Link](https://viewcardhanningtone.netlify.app/)
 
 ## Getting Started
 
